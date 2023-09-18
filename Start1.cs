@@ -17,7 +17,6 @@ namespace InstallerApp
             this.Hide();
             information2 infor = new information2();
             infor.ShowDialog();
-            int a;
             this.Show();
 
         }
