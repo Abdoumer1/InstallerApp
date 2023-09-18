@@ -19,7 +19,7 @@ namespace InstallerApp
             infor.ShowDialog();
             this.Show();
             int a;
-
+            int c;
         }
 
 
