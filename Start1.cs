@@ -14,9 +14,11 @@ namespace InstallerApp
         }
         private void next_Click(object sender, EventArgs e)
         {
-
+            this.Hide();
             information2 infor = new information2();
             infor.ShowDialog();
+            int a;
+            this.Show();
 
         }
 
