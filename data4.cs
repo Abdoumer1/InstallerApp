@@ -41,6 +41,7 @@ namespace InstallerApp
             local3 parent = new local3();
             parent.ShowDialog();
             this.Hide();
+            int a;
         }
 
         private void next_Click(object sender, EventArgs e)
